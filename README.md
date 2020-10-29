@@ -8,7 +8,9 @@ F. Ghaderinezhad, C. Ley, B. Serrien (2020). The Wasserstein Impact Measure (WIM
 ```
 
 
-Wasserstein difference for poisson distribution:
+
+
+## Wasserstein difference for poisson distribution:
 
 ![](https://github.com/ghaderinezhad/TheWIM/blob/main/figure1.png)
 
